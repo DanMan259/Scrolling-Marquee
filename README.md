@@ -1,6 +1,6 @@
 # Scrolling Marquee
 
-An embedded system implementation of a scrolling marquee. Developed for the Altera DE0 board using C and Assembly (Nios II instruction set). Messages are displayed across the four seven-segment displays of the DE0 board. This project was developed using specifications from an embedded systems and microprocessor interfacing course - Queen's University (ELEC371).
+An embedded systems implementation of a scrolling marquee. Developed for the Altera DE0 board using C and Assembly (Nios II instruction set). Messages are displayed across the four seven-segment displays of the DE0 board. This project was developed using specifications from an embedded systems and microprocessor interfacing course - Queen's University (ELEC371).
 
 ## Options
 
